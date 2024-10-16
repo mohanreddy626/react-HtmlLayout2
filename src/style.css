@@ -1,0 +1,106 @@
+.body{
+    width: auto;
+    background-color:  #5b1c1c;;
+    padding-left: 75px;
+    color: white;
+}
+
+header{
+    color: white;
+    font-size: xx-large;
+}
+
+nav{
+    width: 950px;
+    height: 50px;
+    background-color: rgba(64, 14, 14, 0.934);
+    color: white;
+    padding-top: 2px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 20px;
+  
+}
+
+.about {
+      width: 950px;
+      height: 250px;
+      background-color: rgb(132, 168, 132);
+      align-content: center;
+}
+
+.about .img{
+    float: left;
+    width: 200px;
+    margin: 15px;
+    padding-left: 20px;
+}
+
+.about .text{
+    float: left;
+    width: 600px;
+    padding: 25px; 
+    text-align: justify;
+}
+
+.lsec {
+    background-color: rgb(74, 106, 119);
+    width: 200px;
+    height: 750px;
+    margin-top: 10px;
+    float: left;
+    color: white;
+ 
+}
+.menu {
+    background-color: rgb(74, 106, 119);
+    width: 200px;
+    height: 750px;
+    margin-top: 10px;
+    float: left;
+    color: white;
+}
+.menu ul {
+    width: 200px;
+    padding: 15px;
+}
+
+.menu ul li {
+    width: 150px;
+    display: inline;
+    margin: 15px;
+}
+
+.menu ul hr { 
+   width: 125px;   
+   margin: 15px;
+   padding-left: 25px; 
+   border: 1px thin cornsilk;
+    
+}
+
+.rsec {
+    background-color: rgb(227, 222, 202);
+    width: 750px;
+    height: 750px ;
+    margin-top: 10px; 
+    margin-left: 200px;
+    text-align: justify;
+    color: black;
+}
+
+.rsec div{
+    width: 600px;
+    padding: 25px 75px 0px 75px; 
+}
+
+footer{
+    width: 950px;
+    background: rgb(132, 168, 132);
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
